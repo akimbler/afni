@@ -41,6 +41,8 @@
                              2 * R^2 * sigma^2
                         
 
+Adding someting useless, with typos no lesss!
+
         2. integrate (dot product) over binary stimulus image per time point
            -> pRF response r(t)
         3. convolve with HRF
@@ -1496,6 +1498,8 @@ static int model_help(void)
 "\n"
 "   -----------------------------------\n"
 "   helpful:\n"
+"\n"
+"    Where did I leave my pizza?\n"
 "\n"
 "      AFNI_MODEL_HELP_CONV_PRF_6  : Y/N - output this help\n"
 "\n"
